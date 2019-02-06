@@ -20,16 +20,21 @@
     "url": "https://github.com/ZoWnX/poker-utils.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Joshua W Julian",
   "license": "ISC",
   "homepage": "https://github.com/ZoWnX/poker-utils#readme",
   "devDependencies": {
     "@types/jest": "^23.3.5",
+    "@types/readline-sync": "^1.4.3",
     "jest": "^23.6.0",
     "prettier": "^1.14.3",
+    "readline-sync": "^1.4.9",
     "ts-jest": "^23.10.4",
     "tslint": "^5.11.0",
     "tslint-config-prettier": "^1.15.0",
     "typescript": "^3.1.2"
+  },
+  "dependencies": {
+    "@types/node": "^10.12.0"
   }
 }
